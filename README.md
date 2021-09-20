@@ -1,9 +1,7 @@
 - 👋 Hi, I’m @2contosx
 
-- 🌱 I’m currently learning fullstack javascript
-- 
-- 
-- 
+- 🌱 I’m currently learning C
+ 
 - I will share my learning here
 
 
