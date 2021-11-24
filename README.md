@@ -1,8 +1,6 @@
-- 👋 Hi, I’m @2contosx
+Yan Pablo Fernandes.
 
-- 🌱 I’m currently learning C
- 
-- I will share my learning here
+DELPHI.
 
 
 
