@@ -1,6 +1,10 @@
 Yan Pablo Fernandes.
 
-DELPHI.
+Estudante dev/web
+
+Capivari de baixo/sc
+
+yanfernandes6@gmail.com
 
 
 
