@@ -1,6 +1,6 @@
 Yan Pablo Fernandes.
 
-Estudante dev/web
+Estudante Delphi.
 
 Capivari de baixo/sc
 
